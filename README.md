@@ -6,7 +6,7 @@ Ultimate Roblox script with 60+ features including fly, ESP, teleport, and more!
 
 **Copy and paste this into your executor:**
 ```lua
-loadstring(game:HttpGet("YOUR_URL_HERE"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mama-Yapper/Universal-Hub/refs/heads/main/Main.lua"))()
 ```
 
 ## ✨ Features
